@@ -210,7 +210,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40"margin-top="20px" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40"margin-top="80px" width="100%"/>
 </div>
 
 <br/>
