@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Shafijur%20Rahman&fontSize=45&fontColor=white&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
+<br/>
+
+<div align="center">
+  
 # ✨ SHAFIJUR RAHMAN ✨
 
 ### 💻 FULL STACK WEB DEVELOPER | PHP & LARAVEL EXPERT
@@ -10,16 +14,16 @@
 
 <br/>
 
-<!-- Ocean Wave Typing Animation -->
+<!-- Premium Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=950&height=130&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Glowing Line -->
+<!-- Premium Glowing Line -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Shafijur/Shafijur/main/gradient-border.svg" width="90%">
+  <img src="https://raw.githubusercontent.com/Shafijur/Shafijur/main/gradient-border.svg" width="85%">
 </div>
 
 <br/>
@@ -30,9 +34,23 @@
 
 <div align="center">
   
-| | |
-|:---:|:---:|
-| <div align="left"><h3>👨‍💻 Who Am I?</h3><br>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br><br>✅ <b>3+ Years Experience</b> in Web Development<br>✅ <b>50+ Projects</b> Completed Successfully<br>✅ <b>24/7</b> Client Support<br>✅ <b>100%</b> Client Satisfaction<br>✅ <b>Clean & Modern UI/UX</b><br>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="150px"/> |
+<table style="border-radius: 10px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,191,255,0.2);">
+  <tr>
+    <td width="60%" style="padding: 25px; background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 10px;">
+      <h3>👨‍💻 Who Am I?</h3>
+      <p>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.</p>
+      <p>✅ <b>3+ Years Experience</b> in Web Development<br/>
+      ✅ <b>50+ Projects</b> Completed Successfully<br/>
+      ✅ <b>24/7</b> Client Support<br/>
+      ✅ <b>100%</b> Client Satisfaction<br/>
+      ✅ <b>Clean & Modern UI/UX</b><br/>
+      ✅ <b>Problem Solver & Self Learner</b></p>
+    </td>
+    <td width="40%" align="center" style="background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 10px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="160px" style="filter: drop-shadow(0 0 15px #00BFFF);"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -42,13 +60,28 @@
 
 <div align="center">
   
-| | |
-|:---:|:---:|
-| 📍 **Location** | Fenchuganj, Sylhet-3116, Bangladesh |
-| 📞 **Phone** | +8801942625398 |
-| ✉️ **Email** | shafijura@gmail.com |
-| 🌐 **Portfolio** | https://shafijurrahman.dev |
-| 💻 **GitHub** | https://github.com/Shafijur |
+<table style="border-radius: 10px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,191,255,0.15);">
+  <tr>
+    <td style="padding: 15px; background: #0D1117; border-radius: 10px;">📍 <b>Location</b></td>
+    <td style="padding: 15px; background: #161B22; border-radius: 10px;">Fenchuganj, Sylhet-3116, Bangladesh</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: #0D1117; border-radius: 10px;">📞 <b>Phone</b></td>
+    <td style="padding: 15px; background: #161B22; border-radius: 10px;">+8801942625398</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: #0D1117; border-radius: 10px;">✉️ <b>Email</b></td>
+    <td style="padding: 15px; background: #161B22; border-radius: 10px;">shafijura@gmail.com</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: #0D1117; border-radius: 10px;">🌐 <b>Portfolio</b></td>
+    <td style="padding: 15px; background: #161B22; border-radius: 10px;">https://shafijurrahman.dev</td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: #0D1117; border-radius: 10px;">💻 <b>GitHub</b></td>
+    <td style="padding: 15px; background: #161B22; border-radius: 10px;">https://github.com/Shafijur</td>
+  </tr>
+</table>
 
 </div>
 
@@ -107,25 +140,29 @@
 ## 📌 FEATURED PROJECTS
 
 <div align="center">
-
-### 🌐 **Personal Portfolio Website**
-🔗 **https://shafijurrahman.dev**
-
-✅ Fully Responsive | ✅ Clean UI/UX | ✅ Downloadable CV | ✅ Project Showcase
-
----
-
-### ⚙️ **Management Systems** (Business | School | Pharmacy)
-
-✅ Role-based Authentication | ✅ Complete CRUD System | ✅ Reports & Analytics
-
----
-
-### 🛒 **Dynamic Web Applications** (Laravel)
-
-✅ MVC Architecture | ✅ Secure Authentication | ✅ Database-driven Features
-
----
+  
+<table style="border-radius: 10px; overflow: hidden;">
+  <tr>
+    <td style="padding: 15px; background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 10px;">
+      <h3>🌐 Personal Portfolio Website</h3>
+      🔗 <b>https://shafijurrahman.dev</b><br/>
+      ✅ Fully Responsive | ✅ Clean UI/UX | ✅ Downloadable CV | ✅ Project Showcase
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: linear-gradient(135deg, #161B22, #0D1117); border-radius: 10px;">
+      <h3>⚙️ Management Systems</h3>
+      <b>Business | School | Pharmacy</b><br/>
+      ✅ Role-based Authentication | ✅ Complete CRUD System | ✅ Reports & Analytics
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 15px; background: linear-gradient(135deg, #0D1117, #161B22); border-radius: 10px;">
+      <h3>🛒 Dynamic Web Applications (Laravel)</h3>
+      ✅ MVC Architecture | ✅ Secure Authentication | ✅ Database-driven Features
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -135,13 +172,13 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&icon_color=FF69B4&border_color=00BFFF&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&icon_color=FF69B4&border_color=00BFFF&border_radius=10" width="45%" style="border-radius: 10px;" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00BFFF&stroke=00BFFF&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&border_radius=10" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00BFFF&stroke=00BFFF&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&border_radius=10" width="45%" style="border-radius: 10px;" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&border_color=00BFFF&layout=compact&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&border_color=00BFFF&layout=compact&border_radius=10" width="45%" style="border-radius: 10px;" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shafijur&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" width="50%" />
 
@@ -153,7 +190,7 @@
 
 <div align="center">
   
-[![Shafijur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafijur&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00BFFF&line=FF69B4&point=FFFFFF&title_color=00BFFF)](https://github.com/Shafijur)
+[![Shafijur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafijur&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00BFFF&line=FF69B4&point=FFFFFF&title_color=00BFFF&border_radius=10)](https://github.com/Shafijur)
 
 </div>
 
@@ -191,7 +228,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shafijurrahman.dev-00BFFF?style=for-the-badge)](https://shafijurrahman.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shafijurrahman.dev-00BFFF?style=for-the-badge&logo=vercel&logoColor=white)](https://shafijurrahman.dev)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Shafijur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafijur)
 [![LinkedIn](https://img.shields.io/badge/🔵_LinkedIn-shafijurrahman--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafijurrahman-dev)
 [![Facebook](https://img.shields.io/badge/📘_Facebook-shafijurrahman.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shafijurrahman.dev)
@@ -203,17 +240,33 @@
 
 ---
 
-## 🌊 WAVE ANIMATION FOOTER
+## 🌊 PREMIUM FOOTER WITH COUNTER
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=footer" width="100%"/>
 
-### ⭐ Let's Build Something Amazing Together! ⭐
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shafijur&label=🌊+OCEAN+VIEWS+🌊&color=00BFFF&style=for-the-badge" />
+<div style="background: linear-gradient(135deg, #00BFFF, #FF69B4); padding: 3px; border-radius: 50px; display: inline-block; box-shadow: 0 0 30px rgba(0,191,255,0.5);">
+  <div style="background: #0D1117; padding: 15px 40px; border-radius: 48px;">
+    <h2 style="margin: 0; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">⭐ Let's Build Something Amazing Together! ⭐</h2>
+  </div>
+</div>
 
-**💬 Open for Remote Work & International Clients**  
-**🚀 Available for Collaboration | 24/7 Support**
+<br/><br/>
+
+<div style="background: linear-gradient(135deg, #00BFFF20, #FF69B420); padding: 15px 30px; border-radius: 50px; display: inline-block; backdrop-filter: blur(10px);">
+  <img src="https://komarev.com/ghpvc/?username=Shafijur&label=🌊+OCEAN+VIEWS+🌊&color=00BFFF&style=for-the-badge" />
+</div>
+
+<br/><br/>
+
+<div style="background: linear-gradient(135deg, #0D1117, #161B22); padding: 20px; border-radius: 15px; display: inline-block; box-shadow: 0 5px 20px rgba(0,0,0,0.3);">
+  <b>💬 Open for Remote Work & International Clients</b><br/>
+  <b>🚀 Available for Collaboration | 24/7 Support</b>
+</div>
+
+<br/><br/>
 
 </div>
