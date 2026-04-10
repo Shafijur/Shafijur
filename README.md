@@ -246,27 +246,20 @@
 ---
 ## 🌊 FOOTER
 
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
-<br/>
 
 <div align="center">
-  <p style="font-size: 18px; font-weight: bold; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent; margin: 0; padding: 0;">
-    — Shafijur Rahman | Full Stack Developer —
-  </p>
-</div>
-
-<br/>
+  
+<p style="font-size: 16px; color: #00BFFF; letter-spacing: 1px;">
+  — <b>Shafijur Rahman</b> | Full Stack Developer
+</p>
 
 <div align="center">
 
 <h3>⭐ Let's Build Something Amazing Together! ⭐</h3>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shafijur&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" />
 
@@ -275,6 +268,5 @@
 <b>💬 Open for Remote Work & International Clients</b><br/>
 <b>🚀 Available for Collaboration | 24/7 Support</b>
 
-<br/><br/>
 
 </div>
