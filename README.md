@@ -205,15 +205,21 @@
 ---
 ## 🌊 FOOTER
 
+<br/>
+
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Keep%20Coding%20Keep%20Growing&fontSize=25&fontColor=white&animation=fadeIn&fontAlignY=45" width="100%"/>
-</div>
+  
+<p style="font-size: 16px; color: #00BFFF; letter-spacing: 1px;">
+  — <b>Shafijur Rahman</b> | Full Stack Developer
+</p>
 
 <br/>
 
