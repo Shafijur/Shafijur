@@ -15,20 +15,64 @@
 <br/>
 
 <div align="center">
-  <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00BFFF;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    
-    <text x="50%" y="50%" text-anchor="middle" fill="url(#grad)" font-size="22" font-family="Orbitron" font-weight="bold">
-      <animate attributeName="y" values="45;55;45" dur="2s" repeatCount="indefinite" />
-      🌊 Welcome to My GitHub Profile 🌊
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
+
+<br/>
+
+<!-- Wave Text Animation -->
+<div align="center">
+  
+  <style>
+    @keyframes wave {
+      0%, 100% { opacity: 0.3; transform: translateY(0px); }
+      50% { opacity: 1; transform: translateY(-6px); text-shadow: 0 0 8px #00BFFF; }
+    }
+    .wave-text span {      display: inline-block;
+      animation: wave 1.5s ease-in-out infinite;
+      animation-delay: calc(0.08s * var(--i));
+    }
+  </style>
+
+  <div class="wave-text" style="font-size: 24px; font-family: 'Orbitron', monospace; font-weight: bold;">
+    <span style="--i:1; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">🌊</span>
+    <span style="--i:2"> </span>
+    <span style="--i:3; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">W</span>
+    <span style="--i:4; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">e</span>
+    <span style="--i:5; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">l</span>
+    <span style="--i:6; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">c</span>
+    <span style="--i:7; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">o</span>
+    <span style="--i:8; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">m</span>
+    <span style="--i:9; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">e</span>
+    <span style="--i:10"> </span>
+    <span style="--i:11; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">t</span>
+    <span style="--i:12; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">o</span>
+    <span style="--i:13"> </span>
+    <span style="--i:14; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">M</span>
+    <span style="--i:15; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">y</span>
+    <span style="--i:16"> </span>
+    <span style="--i:17; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">G</span>
+    <span style="--i:18; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">i</span>
+    <span style="--i:19; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">t</span>
+    <span style="--i:20; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">H</span>
+    <span style="--i:21; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">u</span>
+    <span style="--i:22; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">b</span>
+    <span style="--i:23"> </span>
+    <span style="--i:24; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">P</span>
+    <span style="--i:25; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">r</span>
+    <span style="--i:26; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">o</span>
+    <span style="--i:27; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">f</span>
+    <span style="--i:28; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">i</span>
+    <span style="--i:29; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">l</span>
+    <span style="--i:30; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">e</span>
+    <span style="--i:31"> </span>
+    <span style="--i:32; background: linear-gradient(90deg, #00BFFF, #FF69B4); -webkit-background-clip: text; background-clip: text; color: transparent;">🌊</span>
+  </div>
+
+</div>
+
+<br/>
+
 
 <br/>
 
