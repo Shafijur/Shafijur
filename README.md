@@ -1,17 +1,26 @@
 <div align="center">
   
+<!-- Wave Animation & Lighting Effect Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SHAFIJUR%20RAHMAN&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
 # ✨ SHAFIJUR RAHMAN ✨
 
-### 💻 FULL STACK WEB DEVELOPER | LARAVEL EXPERT | WORDPRESS SPECIALIST
+### 💻 FULL STACK WEB DEVELOPER | PHP & LARAVEL EXPERT
 
 </div>
 
 <br/>
 
+<!-- Ocean Wave Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=D2691E&center=true&vCenter=true&width=800&lines=☕+Welcome+to+My+GitHub+Profile+☕;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
 
+</div>
+
+<!-- Glowing Line -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shafijur/Shafijur/main/gradient-border.svg" width="90%">
 </div>
 
 <br/>
@@ -24,7 +33,7 @@
   
 | | |
 |:---:|:---:|
-| <b>👨‍💻 Who Am I?</b><br><br>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br><br>✅ <b>3+ Years Experience</b> in Web Development<br>✅ <b>50+ Projects</b> Completed Successfully<br>✅ <b>24/7</b> Client Support<br>✅ <b>100%</b> Client Satisfaction<br>✅ <b>Clean & Modern UI/UX</b><br>✅ <b>Problem Solver & Self Learner</b> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-original.svg" width="150px"/> |
+| <div align="left"><h3>👨‍💻 Who Am I?</h3><br>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br><br>✅ <b>3+ Years Experience</b> in Web Development<br>✅ <b>50+ Projects</b> Completed Successfully<br>✅ <b>24/7</b> Client Support<br>✅ <b>100%</b> Client Satisfaction<br>✅ <b>Clean & Modern UI/UX</b><br>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="150px"/> |
 
 </div>
 
@@ -63,7 +72,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🗄️ Database & Server
 
@@ -91,7 +99,6 @@
 | 🔧 **Full Stack Development** | Complete web applications from frontend to backend |
 | 📊 **Management Systems** | Business, School, Pharmacy, and Inventory systems |
 | 🚀 **Laravel Development** | Scalable, secure, and robust backend solutions |
-| 📝 **WordPress Development** | Custom themes, plugins, and CMS websites |
 | 📱 **Responsive Design** | Mobile-first approach for all devices |
 
 </div>
@@ -121,10 +128,6 @@
 
 ---
 
-### 🌍 **WordPress Websites**
-
-✅ Custom Themes | ✅ Plugin Integration | ✅ SEO Optimized | ✅ Fast Performance
-
 </div>
 
 ---
@@ -133,13 +136,15 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&border_color=00F7FF&border_radius=10)
+<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&icon_color=FF69B4&border_color=00BFFF&border_radius=10" width="45%" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00F7FF&stroke=00F7FF&ring=FF00FF&fire=FF00FF&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=00F7FF&sideLabels=00F7FF&dates=FFFFFF&border_radius=10)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00BFFF&stroke=00BFFF&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&border_radius=10" width="45%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00F7FF&border_color=00F7FF&layout=compact&border_radius=10)
+<br/><br/>
 
-![](https://github-profile-trophy.vercel.app/?username=Shafijur&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&border_color=00BFFF&layout=compact&border_radius=10" width="45%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shafijur&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" width="50%" />
 
 </div>
 
@@ -149,7 +154,7 @@
 
 <div align="center">
   
-[![Shafijur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafijur&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00F7FF&line=FF00FF&point=FFFFFF&title_color=00F7FF)](https://github.com/Shafijur)
+[![Shafijur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafijur&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00BFFF&line=FF69B4&point=FFFFFF&title_color=00BFFF)](https://github.com/Shafijur)
 
 </div>
 
@@ -187,7 +192,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shafijurrahman.dev-00F7FF?style=for-the-badge)](https://shafijurrahman.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shafijurrahman.dev-00BFFF?style=for-the-badge)](https://shafijurrahman.dev)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Shafijur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafijur)
 [![LinkedIn](https://img.shields.io/badge/🔵_LinkedIn-shafijurrahman--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shafijurrahman-dev)
 [![Facebook](https://img.shields.io/badge/📘_Facebook-shafijurrahman.dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shafijurrahman.dev)
@@ -199,25 +204,15 @@
 
 ---
 
-## 📊 SKILLS BREAKDOWN
-
-<div align="center">
-  Frontend Development ████████████████████░░░░░░ 70%
-Backend Development ████████████████░░░░░░░░░░ 60%
-Database Design ██████████████░░░░░░░░░░░░ 50%
-UI/UX Design ████████████████████░░░░░░ 75%
-WordPress Development ██████████████░░░░░░░░░░░░ 50%
-
-
-</div>
-
----
+## 🌊 WAVE ANIMATION FOOTER
 
 <div align="center">
   
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
+
 ### ⭐ Let's Build Something Amazing Together! ⭐
 
-<img src="https://komarev.com/ghpvc/?username=Shafijur&label=✨+PROFILE+VIEWS+✨&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Shafijur&label=🌊+OCEAN+VIEWS+🌊&color=00BFFF&style=for-the-badge" />
 
 **💬 Open for Remote Work & International Clients**  
 **🚀 Available for Collaboration | 24/7 Support**
