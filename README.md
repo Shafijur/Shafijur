@@ -169,35 +169,31 @@
 
 ---
 
+---
+
 ## 📊 GITHUB STATISTICS
 
 <div align="center">
 
 <!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&icon_color=FF69B4&border_color=00BFFF&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&cache_seconds=1800" width="45%" />
 
 <!-- Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00BFFF&stroke=00BFFF&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&border_radius=10" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafijur&theme=tokyonight&cache_seconds=1800" width="45%" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&border_color=00BFFF&layout=compact&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&layout=compact&theme=tokyonight&cache_seconds=1800" width="45%" />
 
-<!-- Trophies (Alternative Working Link) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shafijur&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%" />
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Shafijur&theme=radical&no-frame=true&margin-w=10&row=1" width="90%" />
 
 </div>
 
 ---
-
-## 📈 CONTRIBUTION ACTIVITY
-
-<div align="center">
-  
-[![Shafijur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shafijur&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&color=00BFFF&line=FF69B4&point=FFFFFF&title_color=00BFFF)](https://github.com/Shafijur)
-
-</div>
 
 ---
 
@@ -260,10 +256,10 @@
 <div align="center">
 
 <h3>⭐ Let's Build Something Amazing Together! ⭐</h3>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Shafijur&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 <b>💬 Open for Remote Work & International Clients</b><br/>
 <b>🚀 Available for Collaboration | 24/7 Support</b>
