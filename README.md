@@ -14,11 +14,20 @@
 
 <br/>
 
-<!-- Wave Style Typing Animation -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=4000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&height=100&lines=🌊+WELCOME+TO+MY+GITHUB+PROFILE+🌊;💻+FULL+STACK+WEB+DEVELOPER;⚡+3%2B+YEARS+OF+EXPERIENCE;🚀+50%2B+PROJECTS+COMPLETED;💎+PREMIUM+QUALITY+WORK)](https://git.io/typing-svg)
-
+  <svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00BFFF;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#FF69B4;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    
+    <text x="50%" y="50%" text-anchor="middle" fill="url(#grad)" font-size="22" font-family="Orbitron" font-weight="bold">
+      <animate attributeName="y" values="45;55;45" dur="2s" repeatCount="indefinite" />
+      🌊 Welcome to My GitHub Profile 🌊
+    </text>
+  </svg>
 </div>
 
 <br/>
