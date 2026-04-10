@@ -1,22 +1,25 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+# ✨ SHAFIJUR RAHMAN ✨
+
+### 💻 FULL STACK WEB DEVELOPER | PHP & LARAVEL EXPERT
+
+</div>
+
+<br/>
+
+<!-- Ocean Wave Typing Animation -->
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=900&height=120&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Ocean Wave Animation Header -->
+<!-- Glowing Line -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=40&fontColor=white&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  
-# ✨ SHAFIJUR RAHMAN ✨
-
-### 💻 FULL STACK WEB DEVELOPER | PHP & LARAVEL EXPERT
-
+  <img src="https://raw.githubusercontent.com/Shafijur/Shafijur/main/gradient-border.svg" width="90%">
 </div>
 
 <br/>
@@ -29,7 +32,7 @@
   
 | | |
 |:---:|:---:|
-| <div align="left"><h3>👨‍💻 Who Am I?</h3><br>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br><br>✅ <b>3+ Years Experience</b> in Web Development<br>✅ <b>50+ Projects</b> Completed Successfully<br>✅ <b>24/7</b> Client Support<br>✅ <b>100%</b> Client Satisfaction<br>✅ <b>Clean & Modern UI/UX</b><br>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="150px"/> |
+| <div align="left"><h3>👨‍💻 Who Am I?</h3><br>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br><br>✅ <b>3+ Years Experience</b> in Web Development<br>✅ <b>50+ Projects</b> Completed Successfully<br>✅ <b>24/7</b> Client Support<br>✅ <b>100%</b> Client Satisfaction<br>✅ <b>Clean & Modern UI/UX</b><br>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="150px"/> |
 
 </div>
 
@@ -208,7 +211,7 @@
 
 ### ⭐ Let's Build Something Amazing Together! ⭐
 
-<img src="https://komarev.com/ghpvc/?username=Shafijur&label=🌊+PROFILE+VIEWS+🌊&color=00BFFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Shafijur&label=🌊+OCEAN+VIEWS+🌊&color=00BFFF&style=for-the-badge" />
 
 **💬 Open for Remote Work & International Clients**  
 **🚀 Available for Collaboration | 24/7 Support**
