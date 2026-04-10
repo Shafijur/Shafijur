@@ -14,10 +14,10 @@
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- Wave Style Typing Animation -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=4000&pause=800&color=00BFFF&center=true&vCenter=true&width=850&height=100&lines=🌊+WELCOME+TO+MY+GITHUB+PROFILE+🌊;💻+FULL+STACK+WEB+DEVELOPER;⚡+3%2B+YEARS+OF+EXPERIENCE;🚀+50%2B+PROJECTS+COMPLETED;💎+PREMIUM+QUALITY+WORK)](https://git.io/typing-svg)
 
 </div>
 
@@ -204,13 +204,10 @@
 
 ---
 ## 🌊 FOOTER
-
-<br/>
-
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40" margin-top="80px !importent", width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
 <br/>
