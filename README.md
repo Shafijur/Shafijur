@@ -16,10 +16,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
 
 </div>
-
-
-<br/>
-
 ---
 
 ## 🌟 ABOUT ME
@@ -249,20 +245,24 @@
 
 ---
 ## 🌊 FOOTER
-<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎%20--%20Shafijur%20Rahman%20%7C%20Full%20Stack%20Developer&fontSize=20&fontColor=white&animation=fadeIn&fontAlignY=45" width="100%"/>
 </div>
 
 <br/>
 
-<div align="center">
-  
-<p style="font-size: 16px; color: #00BFFF; letter-spacing: 1px;">
-  — <b>Shafijur Rahman</b> | Full Stack Developer
-</p>
+<!-- অথবা নিচের স্টাইলটাও ব্যবহার করতে পারেন (ওয়েভের ভিতরে সিগনেচার ছোট করে) -->
 
+<!-- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=💎%20A%20design%20is%20not%20complete%20until%20someone%20is%20using%20it%20💎&fontSize=22&fontColor=white&animation=fadeIn&fontAlignY=35" width="100%"/>
+  
+  <p style="font-size: 14px; color: #00BFFF; margin-top: -50px; margin-bottom: 20px; letter-spacing: 1px;">
+    — <b>Shafijur Rahman</b> | Full Stack Developer
+  </p>
+</div>
+-->
 <br/>
 
 <div align="center">
