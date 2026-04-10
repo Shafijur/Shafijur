@@ -169,23 +169,13 @@
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 📊 STATS
 
 <div align="center">
-
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Shafijur&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&icon_color=FF69B4&border_color=00BFFF&border_radius=10" width="45%" />
-
-<!-- Streak Card -->
-<img src="https://streak-stats.demolab.com/?user=Shafijur&theme=tokyonight&background=0D1117&border=00BFFF&stroke=00BFFF&ring=FF69B4&fire=FF69B4&currStreakNum=00BFFF&sideNums=00BFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=FFFFFF&border_radius=10" width="45%" />
-
-<br/><br/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafijur&theme=tokyonight&bg_color=0D1117&title_color=00BFFF&border_color=00BFFF&layout=compact&border_radius=10" width="45%" />
-
-<!-- Trophies (Alternative Working Link) -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shafijur&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="90%" />
+  
+📝 **50+ Projects Completed** &nbsp;|&nbsp;
+💻 **3+ Years Experience** &nbsp;|&nbsp;
+🌍 **Available for Work**
 
 </div>
 
