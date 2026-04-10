@@ -31,7 +31,7 @@
   
 | | |
 |:---:|:---:|
-| <div align="left"><b>👨‍💻 Who Am I?</b><br/><br/>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br/><br/>✅ <b>3+ Years Experience</b> in Web Development<br/>✅ <b>50+ Projects</b> Completed Successfully<br/>✅ <b>24/7</b> Client Support<br/>✅ <b>100%</b> Client Satisfaction<br/>✅ <b>Clean & Modern UI/UX</b><br/>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="120px"/> |
+| <div align="left"><b>👨‍💻 Who Am I?</b><br/><br/>I am a passionate <b>Full Stack Developer</b> from Bangladesh with 3+ years of experience in building custom websites, management systems, and dynamic web applications.<br/><br/>✅ <b>3+ Years Experience</b> in Web Development<br/>✅ <b>50+ Projects</b> Completed Successfully<br/>✅ <b>24/7</b> Client Support<br/>✅ <b>100%</b> Client Satisfaction<br/>✅ <b>Clean & Modern UI/UX</b><br/>✅ <b>Problem Solver & Self Learner</b></div> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="150px"/> |
 
 </div>
 
