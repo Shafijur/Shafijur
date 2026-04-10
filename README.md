@@ -233,7 +233,9 @@
 [![Freelancer](https://img.shields.io/badge/💼_Freelancer-shafijurr-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/shafijurr)
 
 </div>
+
 ---
+
 ## 🌊 FOOTER
 
 <div align="center">
