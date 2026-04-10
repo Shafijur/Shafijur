@@ -110,45 +110,52 @@
 
 ---
 
-### 🍣 **Best Sushi**
-🔗 **https://shafijur.github.io/best_sushi**
-
-✅ Responsive Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript
-
----
-
-### 🚗 **Go Crazy**
-🔗 **https://shafijur.github.io/go_crazy**
-
-✅ Responsive Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
-
----
-
-### 📁 **Our Project**
-🔗 **https://shafijur.github.io/our_project**
-
-✅ Multi-page Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Responsive Design
-
----
-
-### 🛍️ **Sup (E-commerce)**
-🔗 **https://shafijur.github.io/sup**
-
-✅ E-commerce Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ PHP
-
----
-
-### 🧠 **Wasla Counseling**
-🔗 **https://shafijur.github.io/wasla_counseling**
-
-✅ Counseling Service Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
-
----
-
-### 🌐 **Web Sare Pro**
-🔗 **https://shafijur.github.io/web_sare_pro**
-
-✅ Service Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🍣 Best Sushi</h3>
+      🔗 <b>https://shafijur.github.io/best_sushi</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript<br/>
+      ✅ Responsive Website
+    </td>
+    <td width="50%" align="center">
+      <h3>🚗 Go Crazy</h3>
+      🔗 <b>https://shafijur.github.io/go_crazy</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap<br/>
+      ✅ Responsive Website
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <h3>📁 Our Project</h3>
+      🔗 <b>https://shafijur.github.io/our_project</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript<br/>
+      ✅ Multi-page Website
+    </td>
+    <td width="50%" align="center">
+      <h3>🛍️ Sup (E-commerce)</h3>
+      🔗 <b>https://shafijur.github.io/sup</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ PHP<br/>
+      ✅ E-commerce Website
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center">
+      <h3>🧠 Wasla Counseling</h3>
+      🔗 <b>https://shafijur.github.io/wasla_counseling</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap<br/>
+      ✅ Counseling Service Website
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Web Sare Pro</h3>
+      🔗 <b>https://shafijur.github.io/web_sare_pro</b><br/>
+      ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap<br/>
+      ✅ Service Website
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -163,6 +170,7 @@
 ✅ MVC Architecture | ✅ Secure Authentication | ✅ Database-driven Features
 
 </div>
+
 ---
 
 ## 📊 GITHUB STATISTICS
