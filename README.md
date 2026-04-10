@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/e81856d0-7176-4711-89e4-2a1811ecf8c7)<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
