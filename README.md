@@ -16,6 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&height=100&lines=🌊+Welcome+to+My+GitHub+Profile+🌊;💻+Full+Stack+Web+Developer;⚡+3%2B+Years+of+Experience;🚀+50%2B+Projects+Completed;💎+Premium+Quality+Work)](https://git.io/typing-svg)
 
 </div>
+
 ---
 
 ## 🌟 ABOUT ME
