@@ -206,48 +206,19 @@
 ## 🌊 FOOTER
 
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
-
-<br/><br/>
-
-<!-- Premium Quote Section -->
-<div style="background: linear-gradient(135deg, #00BFFF20, #FF69B420); padding: 25px 30px; border-radius: 20px; display: inline-block; backdrop-filter: blur(10px); max-width: 90%;">
-  
-  <p style="font-size: 22px; font-style: italic; margin: 0; color: #00BFFF;">
-    💎 "Code is like poetry. It should be clean, elegant, and meaningful." 💎
-  </p>
-  
-  <p style="font-size: 16px; margin-top: 15px; color: #FF69B4;">
-    — Shafijur Rahman | Full Stack Developer
-  </p>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" width="100%"/>
 </div>
-
-<br/><br/>
-
-<!-- Alternative Quotes - আপনি যেকোনো একটি বেছে নিতে পারেন -->
-<!-- 
-<div style="background: linear-gradient(135deg, #00BFFF20, #FF69B420); padding: 25px 30px; border-radius: 20px; display: inline-block; backdrop-filter: blur(10px);">
-  <p style="font-size: 20px; font-style: italic; margin: 0; color: #00BFFF;">
-    🌊 "Building dreams line by line, solving problems step by step." 🌊
-  </p>
-  <p style="font-size: 14px; margin-top: 10px; color: #FF69B4;">— Shafijur Rahman</p>
-</div>
--->
-
-<!-- বা এইটাও ব্যবহার করতে পারেন -->
-<!-- 
-<div style="background: linear-gradient(135deg, #00BFFF20, #FF69B420); padding: 25px 30px; border-radius: 20px; display: inline-block; backdrop-filter: blur(10px);">
-  <p style="font-size: 20px; font-style: italic; margin: 0; color: #00BFFF;">
-    🚀 "Stay hungry. Stay foolish. Keep coding." 🚀
-  </p>
-  <p style="font-size: 14px; margin-top: 10px; color: #FF69B4;">— Shafijur Rahman</p>
-</div>
--->
 
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Keep%20Coding%20Keep%20Growing&fontSize=25&fontColor=white&animation=fadeIn&fontAlignY=45" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
 <h3>⭐ Let's Build Something Amazing Together! ⭐</h3>
 
 <br/>
