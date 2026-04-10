@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
-<br/>
-
 <div align="center">
   
 # ✨ SHAFIJUR RAHMAN ✨
@@ -11,8 +9,6 @@
 ### 💻 FULL STACK WEB DEVELOPER | PHP & LARAVEL EXPERT
 
 </div>
-
-<br/>
 
 <!-- Typing Animation -->
 <div align="center">
@@ -103,7 +99,6 @@
 </div>
 
 ---
-
 ## 📌 FEATURED PROJECTS
 
 <div align="center">
@@ -112,6 +107,48 @@
 🔗 **https://shafijurrahman.dev**
 
 ✅ Fully Responsive | ✅ Clean UI/UX | ✅ Downloadable CV | ✅ Project Showcase
+
+---
+
+### 🍣 **Best Sushi**
+🔗 **https://shafijur.github.io/best_sushi**
+
+✅ Responsive Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript
+
+---
+
+### 🚗 **Go Crazy**
+🔗 **https://shafijur.github.io/go_crazy**
+
+✅ Responsive Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
+
+---
+
+### 📁 **Our Project**
+🔗 **https://shafijur.github.io/our_project**
+
+✅ Multi-page Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Responsive Design
+
+---
+
+### 🛍️ **Sup (E-commerce)**
+🔗 **https://shafijur.github.io/sup**
+
+✅ E-commerce Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ PHP
+
+---
+
+### 🧠 **Wasla Counseling**
+🔗 **https://shafijur.github.io/wasla_counseling**
+
+✅ Counseling Service Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
+
+---
+
+### 🌐 **Web Sare Pro**
+🔗 **https://shafijur.github.io/web_sare_pro**
+
+✅ Service Website | ✅ HTML5 | ✅ CSS3 | ✅ JavaScript | ✅ Bootstrap
 
 ---
 
@@ -126,7 +163,6 @@
 ✅ MVC Architecture | ✅ Secure Authentication | ✅ Database-driven Features
 
 </div>
-
 ---
 
 ## 📊 GITHUB STATISTICS
