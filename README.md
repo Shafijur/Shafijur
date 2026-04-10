@@ -1,4 +1,4 @@
-<div align="center">
+![LinkedinGIF](https://github.com/user-attachments/assets/e81856d0-7176-4711-89e4-2a1811ecf8c7)<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shafijur%20Rahman&fontSize=35&fontColor=white&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
 
@@ -229,9 +229,10 @@
 [![Instagram](https://img.shields.io/badge/📷_Instagram-shafijur.rahman-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shafijur.rahman)
 [![YouTube](https://img.shields.io/badge/📺_YouTube-shafijurrahman--dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shafijurrahman-dev)
 [![Email](https://img.shields.io/badge/📧_Email-shafijura@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafijura@gmail.com)
+[![Fiverr](https://img.shields.io/badge/💰_Fiverr-shafijurrahman-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/shafijurrahman)
+[![Freelancer](https://img.shields.io/badge/💼_Freelancer-shafijurr-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/shafijurr)
 
 </div>
-
 ---
 ## 🌊 FOOTER
 
@@ -242,6 +243,8 @@
 
 <div align="center">
   
+<br/>
+
 <p style="font-size: 16px; color: #00BFFF; letter-spacing: 1px;">
   — <b>Shafijur Rahman</b> | Full Stack Developer
 </p>
